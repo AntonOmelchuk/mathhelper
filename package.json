@@ -1,6 +1,6 @@
 {
   "name": "simple-math-helper-onixteam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple JavaScript library providing utility functions.",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "url": "https://github.com/AntonOmelchuk/mathhelper.git/issues"
   },
   "homepage": "https://github.com/AntonOmelchuk/mathhelper.git",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "string-utils-onixteam": "^1.0.1"
+  }
 }
