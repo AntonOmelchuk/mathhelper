@@ -1,6 +1,6 @@
 {
-  "name": "mathhelper",
-  "version": "1.0.0",
+  "name": "simple-math-helper-onixteam",
+  "version": "1.0.1",
   "description": "A simple JavaScript library providing utility functions.",
   "main": "index.js",
   "scripts": {
@@ -15,12 +15,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/my-library.git"
+    "url": "https://github.com/AntonOmelchuk/mathhelper.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/my-library/issues"
+    "url": "https://github.com/AntonOmelchuk/mathhelper.git/issues"
   },
-  "homepage": "https://github.com/yourusername/my-library",
+  "homepage": "https://github.com/AntonOmelchuk/mathhelper.git",
   "dependencies": {},
   "devDependencies": {}
 }
